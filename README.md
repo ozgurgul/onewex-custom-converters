@@ -51,7 +51,7 @@ configuration.
 * Content-types for input: `text/xml`
 * Content-types for metadata: `application/metadata`
 * Content-types for output: `application/axml`
-* Converter type: `Converting XML docuemnts using xsl templates` 
+* Converter type: `Converting XML document using xsl templates` 
 * Converter template path: `/mnt/custom-xsl/custom-xml.xsl`
 * Config patameters: press Add, and edit the fields by key : `root-element-as-document`,
 and value : `false`. 
